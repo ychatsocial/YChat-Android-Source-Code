@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "171358208748",
+    "project_id": "ychat-social-8cbc8",
+    "storage_bucket": "ychat-social-8cbc8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171358208748:android:51e0f8c083b8bf7939dbc9",
+        "android_client_info": {
+          "package_name": "com.ychat.appsocial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXkzmtIC1nWEIF-vh63Xq8WCxnjtKZa-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
